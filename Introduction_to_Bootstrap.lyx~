@@ -125,10 +125,16 @@ Getting Started with Bootstrap
 \end_layout
 
 \begin_layout Standard
-During our first module we'll cover the basics of Bootstrap and the grid
- system.
- You'll see how to obtain and add Bootstrap to your pages, and why Bootstrap
- makes developing responsive pages simpler than using CSS directly.
+During our first module 
+\series bold
+we'll cover the basics of Bootstrap and the grid system
+\series default
+.
+ You'll see how to obtain and add Bootstrap to your pages, and why 
+\series bold
+Bootstrap makes developing responsive pages simpler than using CSS directly
+\series default
+.
  We'll also explain how the grid system works to layout your pages.
 \end_layout
 
@@ -366,10 +372,10 @@ Extra small devices always use the entire width of the screen
 <lyxtabular version="3" rows="4" columns="5">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="middle" width="15col%">
-<column alignment="left" valignment="middle" width="20col%">
-<column alignment="left" valignment="middle" width="20col%">
-<column alignment="left" valignment="middle" width="20col%">
-<column alignment="left" valignment="middle" width="20col%">
+<column alignment="left" valignment="middle" width="18col%">
+<column alignment="left" valignment="middle" width="18col%">
+<column alignment="left" valignment="middle" width="18col%">
+<column alignment="left" valignment="middle" width="18col%">
 <row>
 <cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -846,52 +852,88 @@ Part 4 Additional Guidance
 \end_layout
 
 \begin_layout Enumerate
-Download Bootstrap components from www.getbootstrap.com.
+
+\series bold
+Download
+\series default
+ Bootstrap components from www.getbootstrap.com.
  
 \end_layout
 
 \begin_layout Enumerate
-Download the album art.
+
+\series bold
+Download
+\series default
+ the album art.
  
 \end_layout
 
 \begin_layout Enumerate
-Create a new project in Visual Studio.
+
+\series bold
+Create
+\series default
+ a new project in Visual Studio.
  Use the empty web template.
  
 \end_layout
 
 \begin_layout Enumerate
-Add a folder named "Styles".
+
+\series bold
+Add
+\series default
+ a folder named "Styles".
  Add the Bootstrap css files to this folder.
  
 \end_layout
 
 \begin_layout Enumerate
-Add a folder named "Scripts".
+
+\series bold
+Add
+\series default
+ a folder named "Scripts".
  Add the JavaScript files to this folder.
  
 \end_layout
 
 \begin_layout Enumerate
-Add a new HTML page named AlbumDetails.html.
+
+\series bold
+Add
+\series default
+ a new HTML page named AlbumDetails.html.
  
 \end_layout
 
 \begin_layout Enumerate
-Add references to the Bootstrap min CSS file to AlbumDetails.html.
+
+\series bold
+Add
+\series default
+ references to the Bootstrap min CSS file to AlbumDetails.html.
  
 \end_layout
 
 \begin_layout Enumerate
-Add the necessary HTML to implement the layout.
+
+\series bold
+Add
+\series default
+ the necessary HTML to implement the layout.
  Use the phrases Music Store, Album Title, and Artist as placeholders as
  shown in the wireframe.
  
 \end_layout
 
 \begin_layout Enumerate
-Obtain a new theme from bootswatch.com.
+
+\series bold
+Obtain
+\series default
+ a new theme from bootswatch.com.
  Implement the new theme.
 \end_layout
 
